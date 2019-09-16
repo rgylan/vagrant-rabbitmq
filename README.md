@@ -1,0 +1,2 @@
+# vagrant-rabbitmq
+Simulate RabbitMQ.
